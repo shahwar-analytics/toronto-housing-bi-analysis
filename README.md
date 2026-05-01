@@ -96,3 +96,7 @@ A sample dataset is included in this repository.
 - Predictive pricing model using machine learning
 - Integration with live MLS data
 - Deployment as a web-based dashboard
+
+ ## 👨‍💻 Author
+Mohammed Shahwar Ahmed  
+Data Analyst | SQL | Python | Power BI
